@@ -11,6 +11,6 @@
 
  
  dependencies {
-	        implementation 'com.github.kundan-gif:AndroidLibraryImagePreview:1.0.0'
+	        implementation 'com.github.kundan-gif:AndroidLibraryImagePreview:1.0.1'
 	}
   ```

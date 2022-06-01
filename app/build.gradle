@@ -62,4 +62,6 @@ dependencies {
 
     //For local
    // implementation project(':image-preview')
+
+    implementation 'com.github.kundan-gif:AndroidLibraryImagePreview:1.0.0'
 }
